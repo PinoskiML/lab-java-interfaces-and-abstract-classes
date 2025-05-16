@@ -17,10 +17,10 @@ public class IntArrayList implements  IntList{
 
             }
                 numbers = expandedArray;    // updated reference
-                numbers[size] = number;
-                size++;
-        }
 
+        }
+        numbers[size] = number;
+        size++;
     }
 
     @Override
