@@ -69,7 +69,7 @@ Once you finish the assignment, submit a URL link to your repository or your pul
 5. In your `README.md`, include an example of when `IntArrayList` would be more efficient and when `IntVector` would be more efficient.
 
 
-5.  An IntArrayList method would be more effective on smaller projects, when it doesnt matter more frequent memory updates, but for larger projects where there are many entries in a short period of time its better to do vector, as there will be more memory readily available.
+Answer for task 5 in the IntList Interface section: An IntArrayList method would be more effective on smaller projects, when it doesn't matter more frequent memory updates, but for larger projects where there are many entries in a short period of time its better to do vector, as there will be more memory readily available.
 <br>
 
 ## FAQs
